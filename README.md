@@ -34,13 +34,6 @@ The Countdown Timer app is a web application that allows users to set a countdow
    - Style the input field, buttons, and timer text for a visually appealing and responsive design.
    - Utilize Flexbox with Tailwind CSS classes to center the entire app on the screen.
 
-## Table of Contents
-
-   - [Installation](#installation)
-   - [Usage](#usage)
-   - [Dependencies](#dependencies)
-   - [License](#license)
-
 ## Installation
 
 1. **Clone the repository:**
@@ -64,7 +57,7 @@ npm install
 Start the development server:
 
 ```bash
-npm start
+npm run dev
 Open your browser and go to http://localhost:5173 to view the app.
 ```
 
@@ -76,7 +69,7 @@ Open your browser and go to http://localhost:5173 to view the app.
 
    - Click the "Pause" button to pause the timer.
 
-## Dependencies
+## Tech Stack
 
 ```bash
 React
