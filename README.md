@@ -47,7 +47,7 @@ Open your browser and go to http://localhost:3000 to view the app.
 
 - Click the "Reset" button to reset the timer.
 
-- Optionally, click the "Pause" button to pause the timer.
+- Click the "Pause" button to pause the timer.
 
 ## Dependencies
 ```
