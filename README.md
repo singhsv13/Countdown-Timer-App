@@ -65,7 +65,7 @@ Start the development server:
 
 ```bash
 npm start
-Open your browser and go to http://localhost:3000 to view the app.
+Open your browser and go to http://localhost:5173 to view the app.
 ```
 
    - Enter the desired countdown minutes in the input field.
