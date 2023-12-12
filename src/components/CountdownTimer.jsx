@@ -86,7 +86,7 @@ const CountdownTimer = () => {
         )}
         <div className="mt-4">
           <p className="text-3xl text-blue-500">
-            Time Remaining: {String(minutes).padStart(2, '0')}:{String(seconds).padStart(2, '0')}
+            {String(minutes).padStart(2, '0')}:{String(seconds).padStart(2, '0')}
           </p>
         </div>
       </div>
