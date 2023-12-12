@@ -30,7 +30,6 @@ The Countdown Timer app is a web application that allows users to set a countdow
 5. Styling with Tailwind CSS:
 
    - Use Tailwind CSS utility classes for styling the components.
-   - Apply a dark ocean-themed background to the main container.
    - Style the input field, buttons, and timer text for a visually appealing and responsive design.
    - Utilize Flexbox with Tailwind CSS classes to center the entire app on the screen.
 
