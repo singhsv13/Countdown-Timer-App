@@ -66,20 +66,20 @@ const CountdownTimer = () => {
         <button
           onClick={handleStart}
           disabled={isActive}
-          className="bg-blue-500 text-white px-4 py-2 rounded"
+          className="bg-blue-400 hover:bg-blue-500 text-white px-4 py-2 rounded"
         >
           Play
         </button>
         <button
           onClick={handleReset}
-          className="bg-gray-500 text-white px-4 py-2 rounded ml-2"
+          className="bg-red-400 hover:bg-red-500 text-white px-4 py-2 rounded ml-2"
         >
           Reset
         </button>
         {isActive && (
           <button
             onClick={handlePause}
-            className="bg-yellow-500 text-white px-4 py-2 rounded ml-2"
+            className="bg-yellow-400 hover:bg-yellow-500 text-white px-4 py-2 rounded ml-2"
           >
             Pause
           </button>
