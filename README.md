@@ -4,7 +4,10 @@ This is a simple Countdown Timer app built using React and Tailwind CSS.
 
 ## Project Overview
 
-The Countdown Timer app is a web application that allows users to set a countdown timer based on the desired number of minutes. It includes features such as starting the timer, resetting it, and pausing the countdown.
+1. Developed a responsive Countdown Timer web app using React and Tailwind CSS.
+2. Implemented features such as customizable countdown, start, reset, and optional pause functionalities.
+3. Utilized modern web development practices for a visually appealing and user-friendly design.
+4. Demonstrated proficiency in React state management, useEffect hook, and Tailwind CSS styling.
 
 ## Approach
 1. Project Setup:
