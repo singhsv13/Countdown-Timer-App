@@ -61,7 +61,7 @@ const CountdownTimer = () => {
           value={minutes}
           onChange={handleInputChange}
           disabled={isActive}
-          className="border-2 bg-transparent p-2 mr-2 w-16 text-black rounded-xl block w-full mb-3"
+          className="border-2 bg-transparent p-2 mr-2 w-16 text-black rounded-xl block w-full mb-3 text-white"
         />
         <button
           onClick={handleStart}
