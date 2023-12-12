@@ -85,7 +85,7 @@ const CountdownTimer = () => {
           </button>
         )}
         <div className="mt-4">
-          <p className="text-3xl text-blue-500">
+          <p className="text-6xl text-bold text-blue-500">
             {String(minutes).padStart(2, '0')}:{String(seconds).padStart(2, '0')}
           </p>
         </div>
